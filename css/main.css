@@ -1,0 +1,27 @@
+html {
+    font-size: 16px;
+}
+html, body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.wrapper{
+    background-color: #dedede;
+   
+}
+.greeting {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+.greeting .legend-header {
+    font-size: 3rem;
+    text-align: center;
+}
+
+
+
