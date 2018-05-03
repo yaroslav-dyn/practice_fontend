@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Practice frontend</title>
+    <link rel="stylesheet" href="css/css_reset.css">
+    <link rel="stylesheet" href="css/main.css">
+    <div class="Header1">
+        <img src="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Fandom_2017_Powered.svg/revision/latest/scale-to-width-down/300?cb=20170518133904" alt="logo" id="logo">
+    <input type="text" class="field" placeholder="What are you looking for?..."/>
+    <span class="Reg"><a href="Registration">Registration</a></span>
+    <span class="Login"><a href="Login">Login</a></span>
+    </span>
+    </div>
+    <div class="header2">
+        <img src="https://vignette4.wikia.nocookie.net/darksouls/images/8/89/Wiki-wordmark.png/revision/latest?cb=20170626192356&path-prefix=ru" id="logo2">
+    <div id="proverb">Death is not an escape</div>
+    </div>
+</head>
+<body link="red" vlink="#FFFF00" alink="#FFFFFF">
+        <div class="Mainblock">
+            <div id="head">Main page</div>
+            <div id="strip1"></div>
+            <div id="logo3">
+                <img src="https://vignette.wikia.nocookie.net/darksouls/images/9/9b/Dark_Souls_Wiki_Logo.png/revision/latest/scale-to-width-down/460?cb=20160518144339&path-prefix=ru"no-repeat>
+            </div>
+            <div class="chart1">Welcome to the English-language resource of Dark Souls WIKI!
+                I hope that my WIKI will become a normal example of my knowledge in web development.
+                <div id="strip2"></div></div>
+                <div id="interview">Interview</div>
+                <div id="interview1">Which DLC did you like most?</div>
+                <div id="strip3"></div>
+                <div class="radio">
+                    <div class="checkbox">
+                        <input  type="checkbox"><span>Artorias of the Abyss</span><br><br>
+                        <input type="checkbox"><span>Crown of the Sunken King</span><br><br>
+                        <input type="checkbox"><span>Crown of the Old Iron King</span><br><br>
+                        <input type="checkbox"><span>Crown of the Ivory King</span><br><br>
+                        <input type="checkbox"><span>Ashes of Ariandel</span><br><br>
+                        <input type="checkbox"><span>The Ringed City</span></p><br> 
+                        <div id="but1">
+                                <a href="form\Form.html" class="but1">Send!</a>
+                        </div>
+                    </div> <!--checkbox-->
+                </div> <!--Radio--> 
+                <div class="mainvideo">Video: Dark Souls Remastered
+                    <div class="strip4"></div>
+                    <div id="video">
+                        <video src="videos/video1.mp4" type="video/mp4" controls="controls" poster="images/log.jpg" height="480px" width="850px"></video>
+                    </div>
+                </div>
+                <div class="author">Author
+                    <div class="strip5"></div>
+                    <div id="imageofAuthor">                  
+                    <img src="images/smileauthor.jpg" height="170px" width="170px">
+                    <div id="vadim">Vadim Melnikov</div></div>
+                </div>
+                <div class="Partners">Our Partners<div class="strip6"></div>
+               <div id="partnr1">
+                   <img src="https://vignette.wikia.nocookie.net/darksouls/images/2/24/Steam_%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80.png/revision/latest/scale-to-width-down/200?cb=20140326171338&path-prefix=ru">
+               </div>
+               <div id="partnr2">
+                   <img src="https://vignette.wikia.nocookie.net/darksouls/images/6/61/Demon%27s_Souls_Wiki.png/revision/latest/scale-to-width-down/200?cb=20140109064702&path-prefix=ru">
+               </div>
+               <div id="partnr3">
+                   <img src="https://vignette.wikia.nocookie.net/darksouls/images/4/43/Bloodborne-logo_.png/revision/latest/scale-to-width-down/200?cb=20160819042820&path-prefix=ru">
+               </div>
+               <div id="partnr4">
+                   <img src="https://vignette.wikia.nocookie.net/darksouls/images/6/66/%D0%9C%D0%BE%D1%80%D0%B4%D0%BE%D1%80.png/revision/latest/scale-to-width-down/200?cb=20160225175546&path-prefix=ru">
+               </div>
+               <div id="partnr5">
+                   <img src="https://vignette.wikia.nocookie.net/darksouls/images/b/b0/%D0%92%D0%B5%D0%B4%D1%8C%D0%BC%D0%B0%D0%BA-wordmark.png/revision/latest/scale-to-width-down/200?cb=20151126063115&path-prefix=ru">
+               </div>
+            </div>
+            <div class="app">App
+                    <div id="logapp">
+                        <img  src="https://vignette.wikia.nocookie.net/darksouls/images/6/69/SWA_1.png/revision/latest/scale-to-width-down/105?cb=20160818090647&path-prefix=ru">
+                            </div>
+                <div class="strip7"></div>
+                <div id="google-play">
+                    <a href="https://play.google.com/store/apps/details?id=com.wikia.singlewikia.darksouls"><img src="https://vignette.wikia.nocookie.net/darksouls/images/5/5f/SWA_2.png/revision/latest/scale-to-width-down/140?cb=20160818112917&path-prefix=ru"></a>
+                </div>
+                <div id="appstore">
+                    <a href="https://itunes.apple.com/ru/app/wikia-dark-souls-fan-app/id825656133?mt=8"><img src="https://vignette.wikia.nocookie.net/darksouls/images/2/29/SWA_3.png/revision/latest/scale-to-width-down/140?cb=20160818112944&path-prefix=ru"></a>
+                </div>
+            </div>
+        </div>
+        <div id="space"></div>
+        <div class="low-block">
+        <div id="low-logo">
+            <img src="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Fandom_2017_Powered.svg/revision/latest/scale-to-width-down/300?cb=20170518133904">
+        </div>
+        <div id="low-strip1">
+            <div id="explore">
+               <a href="http://ru.darksouls.wikia.com/wiki/Dark_Souls_Wiki" link="red" vlink="#FFFF00" alink="#FFFFFF">Explore Wiki</a></div>
+            </div>
+               <div id="low-strip2">
+                   <div id="reviev">reviev
+                       <br>
+                       <br>
+                       <p>About us</p>
+                       <br>
+                       <p>Vacancies</p>
+                       <br>
+                       <p>In press</p>
+                       <br>
+                       <p>Feedback</p>
+                       <br>
+                       <p>Wikia.org</p>
+                       <br>
+                   </div>
+               </div>
+        <div id="low-strip3">
+                <div id="community">community
+                    <br>
+                    <br>
+                    <p>Wiki communities</p>
+                    <br>
+                    <p>support</p>
+                    <br>
+                    <p>WAM rating</p>
+                    <br>
+                    <p>Reference</p>
+                    <br>
+                </div>
+            </div>
+        <div id="low-strip4">
+                <div id="Fandom-Apps">Fandom Apps
+                        <br>
+                        <br>
+                        <p>Keep up to date on what's happening on your favorite communities</p>
+                        <br>
+                        <div class="google-play">
+                                <a href="https://play.google.com/store/apps/details?id=com.wikia.singlewikia.darksouls"><img src="https://vignette.wikia.nocookie.net/darksouls/images/5/5f/SWA_2.png/revision/latest/scale-to-width-down/140?cb=20160818112917&path-prefix=ru"></a>
+                            </div>
+                        <div class="appstore">
+                                <a href="https://itunes.apple.com/ru/app/wikia-dark-souls-fan-app/id825656133?mt=8"><img src="https://vignette.wikia.nocookie.net/darksouls/images/2/29/SWA_3.png/revision/latest/scale-to-width-down/140?cb=20160818112944&path-prefix=ru"></a>
+                            </div>
+                </div>
+        </div>
+        <div id="low-strip5">
+            <div id="in-chats">In social networks</div>
+            <div id="chats">
+                    <a href="https://www.facebook.com/ru.fandom"><img src="https://image.flaticon.com/icons/svg/123/123717.svg" height="30px" width="30px"></a>
+                    <a href="https://twitter.com/ru_fandom"><img src="https://image.flaticon.com/icons/svg/123/123728.svg" height="30px" width="30px"></a>
+                    <a href="https://vk.com/ru_fandom"><img src="https://image.flaticon.com/icons/svg/123/123736.svg" height="30px" width="30px"></a>
+                        </div>
+        </div>
+        <div id="low-strip6">
+            <div id="str6">Terms of Use
+            <br>
+            <br>
+            <p>Confidentiality</p>
+            <br>
+            <p>General site map</p>
+            <br>
+            <p>Local site map</p>
+            <br>
+            </div>
+        </div>
+        <div id="low-strip7">
+            <div id="str7">Can not find a community for a topic of your interest? Create your own and start the legend!</div>
+            <div id="butsize">
+                <a class="button8">Create a wiki</a>
+                </div>
+        </div>
+        <div id="low-strip8">
+            <div id="str8">Advertising on the website
+                <br>
+                <br>
+                <p>Media Kit</p>
+
+            </div>
+        </div>
+        </div>
+        <div class="lowest-block"><div id="licence">Dark Souls wiki - this is FAND on the portal of Video Games. Content is available under the license <a href="http://www.wikia.com/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5?title=%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5">CC-BY-SA.</a></div></div>
+        <div class="scrollup">
+            <a href="#" onclick="return up()">GO TOP</a>
+        </div>
+    </body>
+</html>
